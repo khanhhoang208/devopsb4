@@ -1,5 +1,5 @@
 #!/bin/bash
 
-pwd
+ls
 echo $Khanh
 echo $Khanh2
